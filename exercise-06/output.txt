@@ -1,0 +1,4 @@
+Exercise 06: Git Ignore
+
+temp.txt is listed in .gitignore.
+Files ending in .log are listed in .gitignore.
