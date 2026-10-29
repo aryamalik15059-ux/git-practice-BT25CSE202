@@ -1,0 +1,6 @@
+Exercise 19: Rejected Push
+
+The push is rejected because the remote contains changes.
+Remote changes are fetched and local commits are rebased.
+Any conflicts are resolved.
+The changes are pushed without force-pushing.
