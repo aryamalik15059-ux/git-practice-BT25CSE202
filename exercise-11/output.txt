@@ -1,0 +1,5 @@
+Exercise 11: Revert a Commit
+
+The commit history is displayed.
+A target commit is selected.
+Git creates a new commit that reverses the target commit's changes.
