@@ -1,0 +1,7 @@
+Exercise 02: Create a Repository
+
+Expected observations:
+- Repository initialized on main.
+- README.md staged and committed.
+- git status shows a clean working tree.
+- git log --oneline displays the commit history.
