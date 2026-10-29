@@ -1,0 +1,6 @@
+Exercise 09: Merge Conflict
+
+Two branches modify the same lines.
+Git reports a merge conflict.
+The conflicting content is edited and the markers are removed.
+The resolved file is staged and committed.
