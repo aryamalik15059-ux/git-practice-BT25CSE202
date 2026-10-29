@@ -1,0 +1,5 @@
+Exercise 15: Fetch and Update
+
+git fetch origin downloads remote updates.
+git status shows the current repository status.
+git pull origin main fetches and integrates remote changes.
