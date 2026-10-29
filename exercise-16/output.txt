@@ -1,0 +1,6 @@
+Exercise 16: Git in VS Code
+
+Modified files are displayed in Source Control.
+Selected files can be staged.
+A commit message is entered and changes are committed.
+Changes can then be pushed to GitHub.
