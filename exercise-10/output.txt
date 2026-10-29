@@ -1,0 +1,5 @@
+Exercise 10: Unstage and Discard Changes
+
+git restore --staged filename unstages a file.
+git restore filename discards unstaged changes.
+git status displays the current repository status.
