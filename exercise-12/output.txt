@@ -1,0 +1,5 @@
+Exercise 12: Git Stash
+
+git stash: Saves unfinished tracked changes.
+git stash list: Displays saved stashes.
+git stash pop: Restores the latest stash.
