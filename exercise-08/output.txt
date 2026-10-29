@@ -1,0 +1,5 @@
+Exercise 08: Branching and Merging
+
+A help file is created on help-branch.
+The branch is merged into main.
+The merged branch is deleted.
