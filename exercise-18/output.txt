@@ -1,0 +1,5 @@
+Exercise 18: Release Tag
+
+A tag named v1.0 is created.
+The tag identifies a specific commit.
+The tag can be pushed to GitHub.
