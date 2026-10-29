@@ -1,0 +1,4 @@
+Exercise 13: Publish and Clone
+
+A local repository can be published to GitHub.
+A remote repository can be copied locally using git clone.
