@@ -1,0 +1,5 @@
+Exercise 05: Inspect Changes
+
+git diff: Displays unstaged changes.
+git diff --staged: Displays staged changes.
+git diff HEAD: Displays staged and unstaged changes compared with HEAD.
