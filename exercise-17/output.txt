@@ -1,0 +1,6 @@
+Exercise 17: Resolve Conflict in VS Code
+
+A merge conflict is identified.
+The required changes are selected or combined.
+Conflict markers are removed.
+The resolved file is saved and committed.
