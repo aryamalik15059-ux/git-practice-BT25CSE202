@@ -1,0 +1,6 @@
+Exercise 14: Collaboration
+
+A feature branch is created.
+Changes are committed and pushed.
+A pull request is opened.
+The changes are reviewed and merged.
