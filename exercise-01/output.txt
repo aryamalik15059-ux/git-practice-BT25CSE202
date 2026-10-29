@@ -1,0 +1,5 @@
+Exercise 01: Git Setup
+
+Git version is displayed successfully.
+Username and email are configured.
+Default branch is set to main.
